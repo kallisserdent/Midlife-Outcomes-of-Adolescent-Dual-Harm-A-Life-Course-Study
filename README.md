@@ -42,15 +42,7 @@ Testing whether study variables differ by inclusion in our analytic cohort. Outp
 ### Step 13 - Exploring the Association Between Cognitive Ability and Victimization 
 Supplementary, exploratory analysis testing associations of adolescent cognitive ability with midlife victimization. 
 
-## Authors 
-### Manuscript authors 
-* Elizabeth M. Kolias, BA (co-first author)
-* Kallisse R. Dent, MPH MS (co-first author)
-* Leah S. Richmond-Rakerd, PhD 
 
-### Code authors 
-* Elizabeth M. Kolias, BA (primary coder)
-* Kallisse R. Dent, MPH MS (provided code checks)
   
 ## Acknowledgements
 This research uses data from Add Health, funded by grant P01 HD31921 (Harris) from
@@ -60,9 +52,6 @@ is currently directed by Robert A. Hummer and funded by the National Institute o
 cooperative agreements U01 AG071448 (Hummer) and U01AG071450 (Aiello and Hummer) at
 the University of North Carolina at Chapel Hill. Add Health was designed by J. Richard Udry,
 Peter S. Bearman, and Kathleen Mullan Harris at the University of North Carolina at Chapel
-Hill.
+Hill. No direct support was received from grant P01-HD31921 for this analysis.
 
-## Transparency and Openness 
-This study was pre-registered with an analysis plan at
-https://sites.lsa.umich.edu/richmond-rakerd-lab/project-proposals/. Analyses that were not pre-
-registered are denoted as “secondary analyses” in the manuscript. The data used to support this research are not public but can be accessed through a restricted-use data contract ( https://addhealth.cpc.unc.edu/data/ ).
+
